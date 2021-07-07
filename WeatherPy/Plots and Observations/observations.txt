@@ -1,0 +1,7 @@
+Observations
+
+1. As latitude increases above the equator (positive latitude), the "max tempreture" of cities also increase.
+
+2. As for those cities below the equator (negative latitude), we've identified that "Max tempreture" of cities decrease.
+
+3. "Max tempreture" had the highest correlation
